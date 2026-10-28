@@ -1,0 +1,49 @@
+LANGUAGE: Spanish (Spain) – es-ES
+
+APP NAME (max 30):
+Arrow Puzzle: Juego de Lógica
+
+SHORT DESCRIPTION (max 80):
+¡Toca las flechas y despeja el tablero! 500 puzles de lógica y retos diarios
+
+FULL DESCRIPTION (max 4000):
+¿Puedes encontrar la salida? ¡Toca las flechas en el orden correcto y despeja todo el tablero!
+
+Arrow Puzzle es un juego de lógica sencillo pero adictivo. Cada flecha se desliza en la dirección a la que apunta, pero solo si su camino está libre. Si eliges la equivocada, se queda bloqueada. Piensa con antelación, planea tus movimientos y haz escapar cada flecha para superar el nivel.
+
+Fácil de aprender, difícil de dominar: el juego mental perfecto para un descanso rápido o una larga partida relajante.
+
+🏹 CÓMO JUGAR
+• Toca una flecha para lanzarla en su dirección
+• Una flecha solo escapa si nada bloquea su camino
+• Quita todas las flechas del tablero para completar el nivel
+• Evita los errores: solo tienes 3 corazones por nivel
+• Consigue hasta 3 estrellas con una partida perfecta
+
+🧠 500 NIVELES DISEÑADOS A MANO
+Empieza con calentamientos relajantes y avanza hasta tableros grandes y complicados. Cada nivel es un nuevo puzle que entrena tu lógica, tu concentración y tu capacidad de planificación.
+
+💡 AYUDAS INTELIGENTES
+¿Te has atascado en una trampa difícil? Usa una Pista (Hint) para ver la siguiente flecha segura, o activa la Cuadrícula (Grid) para ver cada camino con claridad.
+
+🔥 RETOS DIARIOS
+¡Un puzle nuevo cada día! Juega el Reto Diario, sigue tu progreso en el calendario y alarga tu racha de victorias.
+
+💎 TESORO DE GEMAS Y RECOMPENSAS GRATIS
+• Recoge un regalo diario gratis
+• Completa tareas diarias y logros para ganar gemas extra
+• Usa las gemas para pistas, cuadrículas y vidas extra
+
+⭐ ESTRELLAS Y LOGROS
+Consigue estrellas en cada nivel, duplícalas con un bonus y desbloquea recompensas a medida que avanzas.
+
+✨ POR QUÉ TE ENCANTARÁ ARROW PUZZLE
+• Diseño oscuro, limpio y moderno, cómodo para la vista
+• Animaciones de flechas suaves y satisfactorias
+• Sin cronómetro: juega a tu ritmo
+• Niveles cortos, ideales para unos minutos libres
+• Gratis para jugar
+
+Si te gustan los juegos de lógica, los puzles, los rompecabezas, los juegos de desbloquear o los laberintos, Arrow Puzzle será tu nuevo favorito.
+
+¡Descárgalo ya y descubre cuántas flechas puedes liberar!

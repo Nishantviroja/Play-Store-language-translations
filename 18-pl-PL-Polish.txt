@@ -1,0 +1,49 @@
+LANGUAGE: Polish – pl-PL
+
+APP NAME (max 30):
+Arrow Puzzle: Gra Logiczna
+
+SHORT DESCRIPTION (max 80):
+Stukaj w strzałki i oczyść planszę! 500 łamigłówek i codzienne wyzwania
+
+FULL DESCRIPTION (max 4000):
+Czy znajdziesz wyjście? Stukaj w strzałki we właściwej kolejności i oczyść całą planszę!
+
+Arrow Puzzle to prosta, ale wciągająca gra logiczna. Każda strzałka przesuwa się w kierunku, który wskazuje – ale tylko wtedy, gdy jej droga jest wolna. Wybierz złą, a utknie. Myśl z wyprzedzeniem, planuj ruchy i uwolnij każdą strzałkę, aby przejść poziom.
+
+Łatwa do nauczenia, trudna do opanowania – idealna gra na myślenie na krótką przerwę albo długi, relaksujący wieczór.
+
+🏹 JAK GRAĆ
+• Stuknij strzałkę, aby poleciała w swoim kierunku
+• Strzałka ucieknie tylko wtedy, gdy nic nie blokuje jej drogi
+• Usuń wszystkie strzałki z planszy, aby ukończyć poziom
+• Unikaj błędów – masz tylko 3 serca na poziom
+• Zdobądź do 3 gwiazdek za idealne przejście
+
+🧠 500 RĘCZNIE PRZYGOTOWANYCH POZIOMÓW
+Zacznij od relaksującej rozgrzewki i dojdź do dużych, podchwytliwych plansz mistrzowskich. Każdy poziom to nowa łamigłówka, która ćwiczy logikę, skupienie i planowanie.
+
+💡 SPRYTNE POMOCE
+Utknąłeś w trudnej pułapce? Użyj podpowiedzi (Hint), aby zobaczyć następną bezpieczną strzałkę, albo włącz siatkę (Grid), aby wyraźnie widzieć każdą ścieżkę.
+
+🔥 CODZIENNE WYZWANIA
+Nowa łamigłówka każdego dnia! Zagraj w Codzienne Wyzwanie, śledź postępy w kalendarzu i wydłużaj swoją serię zwycięstw.
+
+💎 SKARBIEC KLEJNOTÓW I DARMOWE NAGRODY
+• Odbierz darmowy codzienny prezent
+• Wykonuj codzienne zadania i kamienie milowe, aby zdobyć dodatkowe klejnoty
+• Wydawaj klejnoty na podpowiedzi, siatkę i dodatkowe życia
+
+⭐ GWIAZDKI I KAMIENIE MILOWE
+Zbieraj gwiazdki na każdym poziomie, podwajaj je bonusem i odblokowuj nagrody za kamienie milowe.
+
+✨ DLACZEGO POKOCHASZ ARROW PUZZLE
+• Czysty, nowoczesny, ciemny wygląd przyjazny dla oczu
+• Płynne i satysfakcjonujące animacje strzałek
+• Bez limitu czasu – graj we własnym tempie
+• Krótkie poziomy, idealne na kilka wolnych minut
+• Darmowa gra
+
+Jeśli lubisz gry logiczne, łamigłówki, zagadki, gry typu unblock albo labirynty, Arrow Puzzle stanie się Twoją nową ulubioną grą.
+
+Pobierz teraz i sprawdź, ile strzałek uda Ci się uwolnić!

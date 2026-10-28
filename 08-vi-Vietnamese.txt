@@ -1,0 +1,49 @@
+LANGUAGE: Vietnamese – vi
+
+APP NAME (max 30):
+Arrow Puzzle: Game Trí Tuệ
+
+SHORT DESCRIPTION (max 80):
+Chạm mũi tên để dọn sạch bàn cờ! 500 câu đố logic & thử thách trí tuệ mỗi ngày
+
+FULL DESCRIPTION (max 4000):
+Bạn có tìm được lối thoát? Chạm vào các mũi tên theo đúng thứ tự và dọn sạch cả bàn cờ!
+
+Arrow Puzzle là game giải đố logic đơn giản nhưng gây nghiện. Mỗi mũi tên sẽ trượt theo hướng nó chỉ – nhưng chỉ khi đường đi trống. Chọn sai, nó sẽ bị chặn lại. Hãy suy nghĩ trước, lên kế hoạch từng bước và giải thoát mọi mũi tên để chiến thắng màn chơi.
+
+Dễ học, khó thành thạo – game trí tuệ hoàn hảo cho một lúc nghỉ ngắn hay một buổi thư giãn dài.
+
+🏹 CÁCH CHƠI
+• Chạm vào mũi tên để nó bay theo hướng của mình
+• Mũi tên chỉ thoát ra được khi không có gì chắn đường
+• Dọn hết mũi tên trên bàn cờ để hoàn thành màn chơi
+• Tránh sai lầm – mỗi màn bạn chỉ có 3 trái tim
+• Đạt tới 3 sao khi chơi hoàn hảo
+
+🧠 500 MÀN CHƠI ĐƯỢC THIẾT KẾ TỈ MỈ
+Bắt đầu với những màn khởi động nhẹ nhàng và tiến tới những bàn cờ lớn đầy thử thách. Mỗi màn là một câu đố mới giúp rèn luyện tư duy logic, sự tập trung và khả năng lập kế hoạch.
+
+💡 TRỢ GIÚP THÔNG MINH
+Bị kẹt ở một cái bẫy khó? Dùng Gợi ý (Hint) để thấy mũi tên an toàn tiếp theo, hoặc bật Lưới (Grid) để nhìn rõ mọi đường đi.
+
+🔥 THỬ THÁCH HẰNG NGÀY
+Câu đố mới mỗi ngày! Chơi Thử thách hằng ngày, theo dõi tiến độ trên lịch và kéo dài chuỗi chiến thắng của bạn.
+
+💎 KHO ĐÁ QUÝ & PHẦN THƯỞNG MIỄN PHÍ
+• Nhận quà miễn phí mỗi ngày
+• Hoàn thành nhiệm vụ hằng ngày và cột mốc để nhận thêm đá quý
+• Dùng đá quý cho gợi ý, lưới và thêm mạng
+
+⭐ SAO & CỘT MỐC
+Thu thập sao ở mỗi màn, nhân đôi bằng phần thưởng thêm và mở khóa quà cột mốc khi bạn tiến bộ.
+
+✨ VÌ SAO BẠN SẼ THÍCH ARROW PUZZLE
+• Thiết kế tối giản, hiện đại, dịu mắt
+• Hiệu ứng mũi tên mượt mà, đã mắt
+• Không giới hạn thời gian – chơi theo nhịp của bạn
+• Màn chơi ngắn, phù hợp cho vài phút rảnh rỗi
+• Miễn phí
+
+Nếu bạn yêu thích game logic, câu đố trí tuệ, game giải phóng khối, mê cung hay game chạm để xóa, Arrow Puzzle sẽ là trò chơi yêu thích mới của bạn.
+
+Tải ngay và xem bạn giải thoát được bao nhiêu mũi tên!

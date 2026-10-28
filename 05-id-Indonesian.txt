@@ -1,0 +1,49 @@
+LANGUAGE: Indonesian – id
+
+APP NAME (max 30):
+Arrow Puzzle: Game Asah Otak
+
+SHORT DESCRIPTION (max 80):
+Ketuk panah & bersihkan papan! 500 teka-teki logika dan tantangan harian
+
+FULL DESCRIPTION (max 4000):
+Bisakah kamu menemukan jalan keluarnya? Ketuk panah dengan urutan yang benar dan bersihkan seluruh papan!
+
+Arrow Puzzle adalah game logika yang sederhana tapi bikin ketagihan. Setiap panah meluncur ke arah yang ditunjuknya, tapi hanya jika jalurnya kosong. Salah pilih, panahnya akan terhalang. Pikirkan ke depan, rencanakan langkahmu, dan loloskan semua panah untuk memenangkan level.
+
+Mudah dipelajari, sulit dikuasai – game asah otak yang pas untuk istirahat sebentar maupun bersantai lama.
+
+🏹 CARA BERMAIN
+• Ketuk panah untuk meluncurkannya sesuai arahnya
+• Panah hanya bisa lolos jika tidak ada yang menghalangi jalurnya
+• Bersihkan semua panah dari papan untuk menyelesaikan level
+• Hindari kesalahan – kamu hanya punya 3 nyawa per level
+• Raih hingga 3 bintang dengan permainan sempurna
+
+🧠 500 LEVEL BUATAN TANGAN
+Mulai dari pemanasan santai hingga papan besar yang menantang. Setiap level adalah teka-teki baru yang melatih logika, fokus, dan kemampuan merencanakan.
+
+💡 BANTUAN PINTAR
+Terjebak di jebakan yang sulit? Gunakan Petunjuk (Hint) untuk melihat panah aman berikutnya, atau aktifkan Grid untuk melihat setiap jalur dengan jelas.
+
+🔥 TANTANGAN HARIAN
+Teka-teki baru setiap hari! Mainkan Tantangan Harian, pantau progres di kalender, dan bangun streak kemenanganmu.
+
+💎 HARTA PERMATA & HADIAH GRATIS
+• Klaim hadiah harian gratis
+• Selesaikan misi harian dan pencapaian untuk bonus permata
+• Gunakan permata untuk petunjuk, grid, dan nyawa tambahan
+
+⭐ BINTANG & PENCAPAIAN
+Kumpulkan bintang di setiap level, gandakan dengan bonus, dan buka hadiah pencapaian seiring progresmu.
+
+✨ KENAPA KAMU AKAN SUKA ARROW PUZZLE
+• Desain gelap yang bersih dan modern, nyaman di mata
+• Animasi panah yang halus dan memuaskan
+• Tanpa batas waktu – main sesuai kecepatanmu
+• Level singkat, cocok untuk mengisi waktu luang
+• Gratis dimainkan
+
+Kalau kamu suka game logika, teka-teki, asah otak, puzzle unblock, atau game labirin, Arrow Puzzle bakal jadi favorit barumu.
+
+Unduh sekarang dan lihat berapa banyak panah yang bisa kamu loloskan!

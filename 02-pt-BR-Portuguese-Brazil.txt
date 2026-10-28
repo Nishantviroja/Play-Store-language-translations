@@ -1,0 +1,49 @@
+LANGUAGE: Portuguese (Brazil) – pt-BR
+
+APP NAME (max 30):
+Arrow Puzzle: Quebra-Cabeça
+
+SHORT DESCRIPTION (max 80):
+Toque nas setas e limpe o tabuleiro! 500 fases de lógica e desafios diários
+
+FULL DESCRIPTION (max 4000):
+Você consegue encontrar a saída? Toque nas setas na ordem certa e limpe todo o tabuleiro!
+
+Arrow Puzzle é um jogo de lógica simples, mas viciante. Cada seta desliza na direção para onde aponta, mas só se o caminho estiver livre. Escolha a errada e ela fica bloqueada. Pense à frente, planeje seus movimentos e faça todas as setas escaparem para vencer a fase.
+
+Fácil de aprender, difícil de dominar: o jogo de raciocínio perfeito para uma pausa rápida ou uma longa sessão relaxante.
+
+🏹 COMO JOGAR
+• Toque em uma seta para lançá-la na direção dela
+• Uma seta só escapa se nada estiver bloqueando o caminho
+• Tire todas as setas do tabuleiro para completar a fase
+• Evite erros: você tem apenas 3 corações por fase
+• Ganhe até 3 estrelas com uma partida perfeita
+
+🧠 500 FASES FEITAS À MÃO
+Comece com aquecimentos tranquilos e avance até tabuleiros grandes e desafiadores. Cada fase é um novo quebra-cabeça que treina sua lógica, foco e planejamento.
+
+💡 AJUDAS INTELIGENTES
+Travou numa armadilha difícil? Use uma Dica (Hint) para revelar a próxima seta segura ou ative a Grade (Grid) para ver cada caminho com clareza.
+
+🔥 DESAFIOS DIÁRIOS
+Um novo quebra-cabeça todo dia! Jogue o Desafio Diário, acompanhe seu progresso no calendário e aumente sua sequência de vitórias.
+
+💎 TESOURO DE GEMAS E RECOMPENSAS GRÁTIS
+• Resgate um presente diário grátis
+• Complete tarefas diárias e conquistas para ganhar gemas extras
+• Use gemas em dicas, grades e vidas extras
+
+⭐ ESTRELAS E CONQUISTAS
+Colete estrelas em cada fase, dobre-as com um bônus e desbloqueie recompensas conforme avança.
+
+✨ POR QUE VOCÊ VAI AMAR O ARROW PUZZLE
+• Visual escuro, limpo e moderno, confortável para os olhos
+• Animações de setas suaves e satisfatórias
+• Sem cronômetro: jogue no seu ritmo
+• Fases curtas, perfeitas para poucos minutos livres
+• Grátis para jogar
+
+Se você curte jogos de lógica, desafios mentais, quebra-cabeças, jogos de desbloquear ou de labirinto, o Arrow Puzzle vai ser seu novo favorito.
+
+Baixe agora e veja quantas setas você consegue libertar!

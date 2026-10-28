@@ -1,0 +1,49 @@
+LANGUAGE: Turkish – tr-TR
+
+APP NAME (max 30):
+Arrow Puzzle: Zeka Oyunu
+
+SHORT DESCRIPTION (max 80):
+Oklara dokun, tahtayı temizle! 500 mantık bulmacası ve günlük zeka görevleri
+
+FULL DESCRIPTION (max 4000):
+Çıkış yolunu bulabilir misin? Oklara doğru sırayla dokun ve tüm tahtayı temizle!
+
+Arrow Puzzle, basit ama bağımlılık yapan bir mantık bulmaca oyunudur. Her ok gösterdiği yöne kayar – ama yalnızca yolu boşsa. Yanlış oku seçersen takılır. Önceden düşün, hamlelerini planla ve bölümü kazanmak için tüm okları kurtar.
+
+Öğrenmesi kolay, ustalaşması zor – kısa bir mola ya da uzun ve rahatlatıcı bir oyun için mükemmel zeka oyunu.
+
+🏹 NASIL OYNANIR
+• Bir oka dokun, gösterdiği yöne uçsun
+• Ok yalnızca yolunda engel yoksa kaçabilir
+• Bölümü bitirmek için tahtadaki tüm okları temizle
+• Hatalardan kaçın – her bölümde sadece 3 canın var
+• Kusursuz bir oyunla 3 yıldıza kadar kazan
+
+🧠 ÖZENLE HAZIRLANMIŞ 500 BÖLÜM
+Rahatlatıcı ısınma bölümleriyle başla, büyük ve zorlu usta tahtalarına kadar ilerle. Her bölüm mantığını, odağını ve planlama becerini geliştiren yeni bir bulmaca.
+
+💡 AKILLI YARDIMCILAR
+Zor bir tuzağa mı takıldın? Sıradaki güvenli oku görmek için İpucu (Hint) kullan ya da her yolu net görmek için Izgarayı (Grid) aç.
+
+🔥 GÜNLÜK MEYDAN OKUMALAR
+Her gün yeni bir bulmaca! Günlük Meydan Okumayı oyna, ilerlemeni takvimde takip et ve galibiyet serini büyüt.
+
+💎 MÜCEVHER HAZİNESİ VE ÜCRETSİZ ÖDÜLLER
+• Ücretsiz günlük hediyeni al
+• Günlük görevleri ve kilometre taşlarını tamamlayarak bonus mücevher kazan
+• Mücevherleri ipucu, ızgara ve ekstra can için kullan
+
+⭐ YILDIZLAR VE KİLOMETRE TAŞLARI
+Her bölümde yıldız topla, bonusla ikiye katla ve ilerledikçe kilometre taşı ödüllerinin kilidini aç.
+
+✨ ARROW PUZZLE'I NEDEN SEVECEKSİN
+• Göz yormayan, sade ve modern koyu tasarım
+• Akıcı ve keyifli ok animasyonları
+• Süre sınırı yok – kendi hızında oyna
+• Kısa bölümler, birkaç dakikalık molalar için ideal
+• Ücretsiz oyna
+
+Mantık oyunlarını, zeka bulmacalarını, blok çözme oyunlarını, labirent oyunlarını veya dokun-kaldır bulmacalarını seviyorsan, Arrow Puzzle yeni favorin olacak.
+
+Hemen indir ve kaç oku kurtarabileceğini gör!

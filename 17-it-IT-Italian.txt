@@ -1,0 +1,49 @@
+LANGUAGE: Italian – it-IT
+
+APP NAME (max 30):
+Arrow Puzzle: Gioco di Logica
+
+SHORT DESCRIPTION (max 80):
+Tocca le frecce e libera il tabellone! 500 puzzle di logica e sfide quotidiane
+
+FULL DESCRIPTION (max 4000):
+Riesci a trovare la via d'uscita? Tocca le frecce nell'ordine giusto e libera tutto il tabellone!
+
+Arrow Puzzle è un gioco di logica semplice ma che crea dipendenza. Ogni freccia scorre nella direzione in cui punta, ma solo se la strada è libera. Scegli quella sbagliata e resta bloccata. Pensa in anticipo, pianifica le tue mosse e fai uscire ogni freccia per superare il livello.
+
+Facile da imparare, difficile da padroneggiare: il rompicapo perfetto per una pausa veloce o una lunga sessione rilassante.
+
+🏹 COME SI GIOCA
+• Tocca una freccia per farla volare nella sua direzione
+• Una freccia può uscire solo se niente blocca il suo percorso
+• Elimina tutte le frecce dal tabellone per completare il livello
+• Evita gli errori: hai solo 3 cuori per livello
+• Ottieni fino a 3 stelle con una partita perfetta
+
+🧠 500 LIVELLI CREATI A MANO
+Inizia con riscaldamenti rilassanti e arriva fino a griglie grandi e insidiose. Ogni livello è un nuovo rompicapo che allena logica, concentrazione e capacità di pianificazione.
+
+💡 AIUTI INTELLIGENTI
+Bloccato in una trappola difficile? Usa un Suggerimento (Hint) per scoprire la prossima freccia sicura, oppure attiva la Griglia (Grid) per vedere chiaramente ogni percorso.
+
+🔥 SFIDE QUOTIDIANE
+Un nuovo puzzle ogni giorno! Gioca la Sfida del giorno, segui i tuoi progressi sul calendario e allunga la tua serie di vittorie.
+
+💎 TESORO DI GEMME E RICOMPENSE GRATIS
+• Riscatta un regalo gratuito ogni giorno
+• Completa attività giornaliere e traguardi per ottenere gemme bonus
+• Usa le gemme per suggerimenti, griglie e vite extra
+
+⭐ STELLE E TRAGUARDI
+Raccogli stelle in ogni livello, raddoppiale con un bonus e sblocca le ricompense dei traguardi mentre avanzi.
+
+✨ PERCHÉ AMERAI ARROW PUZZLE
+• Design scuro, pulito e moderno, riposante per gli occhi
+• Animazioni delle frecce fluide e appaganti
+• Nessun timer: gioca con i tuoi tempi
+• Livelli brevi, perfetti per pochi minuti liberi
+• Gratis
+
+Se ti piacciono i giochi di logica, i rompicapi, gli indovinelli, i puzzle di sblocco o i labirinti, Arrow Puzzle sarà il tuo nuovo preferito.
+
+Scaricalo ora e scopri quante frecce riesci a liberare!
